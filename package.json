@@ -1,0 +1,12 @@
+{
+  "name": "hunchify",
+  "version": "1.0.0",
+  "description": "A Crypto Prediction Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "authors": "Shubham , Kartik",
+  "license": "ISC"
+}
